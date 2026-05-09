@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fef05e0cc4be4d8",
+        "id": "2d9e402598e1b638",
         "type": "tabs",
         "children": [
           {
-            "id": "7445b70c1361ff29",
+            "id": "7f598213f21a2f18",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5086555480957
   },
   "right": {
     "id": "e4140021a34b1546",
@@ -168,18 +168,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Create new base": false
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4ebc48a9112bd14f",
+  "active": "7f598213f21a2f18",
   "lastOpenFiles": [
-    "Sans titre.base",
-    "Sans titre 1.base"
+    "English/General Transatlantic RP.md",
+    "漢語/普通話/Hànyǔ Pīnyīn ABC.md",
+    "README.md",
+    "Deutsch/Sans titre.md",
+    "漢語/普通話",
+    "㗂越",
+    "新建文件夹",
+    "Latīna",
+    "Latina",
+    "日本語",
+    "漢語",
+    "Français",
+    "English",
+    "Deutsch"
   ]
 }
