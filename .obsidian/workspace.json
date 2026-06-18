@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d9e402598e1b638",
+        "id": "4ecb5e3902593c44",
         "type": "tabs",
         "children": [
           {
-            "id": "7f598213f21a2f18",
+            "id": "89cdeafdf5aa3c05",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,11 +178,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "7f598213f21a2f18",
+  "active": "4ebc48a9112bd14f",
   "lastOpenFiles": [
-    "English/General Transatlantic RP.md",
     "漢語/普通話/Hànyǔ Pīnyīn ABC.md",
+    "English/General Transatlantic RP.md",
+    "漢語/粵語/廣府話.md",
     "README.md",
+    "漢語/粵語",
     "Deutsch/Sans titre.md",
     "漢語/普通話",
     "㗂越",
@@ -192,7 +194,6 @@
     "日本語",
     "漢語",
     "Français",
-    "English",
-    "Deutsch"
+    "English"
   ]
 }
