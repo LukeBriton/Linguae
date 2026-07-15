@@ -9,7 +9,7 @@
 					- 石濟片
 						- 聊泰小片
 							- 臨清/聊城方言 + 變調兒普通話
-- L2:
+- L2 (Hopefully):
 	- 漢藏語系
 		- 漢白語族
 			- 官話語支
@@ -21,6 +21,12 @@
 				- 粵海片
 					- 廣府話
 						老派城内音
+			- 贛客語支
+				- (Common Hakka-Shē ->)
+					- 新客家話 Neo-Hakka
+						- Mainstream Hakka
+					- 畬話 Shē
+				- 老客家話 Paleo-Hakka
 	- Indo-European language family
 		- Germanic languages
 			- West Germanic languages

@@ -11,10 +11,14 @@
             "id": "89cdeafdf5aa3c05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "README"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5086555480957
+    "width": 231.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e4140021a34b1546",
@@ -178,12 +183,12 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "4ebc48a9112bd14f",
+  "active": "89cdeafdf5aa3c05",
   "lastOpenFiles": [
-    "漢語/普通話/Hànyǔ Pīnyīn ABC.md",
-    "English/General Transatlantic RP.md",
     "漢語/粵語/廣府話.md",
     "README.md",
+    "漢語/普通話/Hànyǔ Pīnyīn ABC.md",
+    "English/General Transatlantic RP.md",
     "漢語/粵語",
     "Deutsch/Sans titre.md",
     "漢語/普通話",
