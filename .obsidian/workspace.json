@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sémiologie/L’aventure sémiologique.md",
+                "file": "Linguistique/Cours de linguistique générale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L’aventure sémiologique"
+              "title": "Cours de linguistique générale"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5086555480957
+    "width": 231.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e4140021a34b1546",
@@ -185,9 +188,11 @@
   },
   "active": "89cdeafdf5aa3c05",
   "lastOpenFiles": [
+    "Sémiologie/L’aventure sémiologique.md",
+    "Linguistique/Cours de linguistique générale.md",
+    "Cours de linguistique générale",
     "Linguistique",
     "English/General Transatlantic RP.md",
-    "Sémiologie/L’aventure sémiologique.md",
     "漢語/普通話/Hànyǔ Pīnyīn ABC.md",
     "漢語/粵語/廣府話.md",
     "README.md",
@@ -199,8 +204,6 @@
     "Latīna",
     "Latina",
     "日本語",
-    "漢語",
-    "Français",
-    "English"
+    "漢語"
   ]
 }
